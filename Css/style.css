@@ -1,0 +1,207 @@
+#new{
+   background-image: url("/img/white\ img.jpg");
+   background-size: cover;
+   background-repeat: no-repeat;
+   background-position: center;
+   height: 80vh;
+}
+#sec1{
+    font-size: 60px;
+    color: red;
+    margin-top: 30px;
+    opacity: 0.6;
+    font-weight: bold;
+    cursor: pointer;
+    text-transform: uppercase;
+    margin-top: 30px;
+}
+#sec1:hover{
+    color: black;
+}
+#sec2{
+    font-weight:300;
+    margin-top: 50px;
+    font-size: 30px;   
+}
+#sec2:hover{
+    color: red;
+}
+#sec3{
+    font-size: 20px;
+    margin-top: 10px;
+}
+#sec3:hover{
+   color: red;
+   cursor: pointer;
+}
+/* section 3 */
+#back1{
+    background-image: url("/img/black\ back\ img.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 45vh;
+}
+#back2{
+    color: white;
+    text-transform: uppercase;
+    margin-top: 10px;
+}
+#back3{
+    color: white;
+}
+/* <!-- section 4  --> */
+#card{
+    /* background-image: url("/img/digter.jpg"); */
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 90vh;
+}
+#card1{
+    color: white;  
+}
+.card:hover{
+    -webkit-box-shadow: -1px 9px 40px -12px rgba(0,0,0,0.75);
+    -moz-box-shadow: -1px 9px 40px -12px rgba(0,0,0,0.75);
+    box-shadow: -1px 9px 40px -12px rgba(0,0,0,0.75);
+}
+
+/* section 5 */
+.gary{
+    background-image: url("/img/garyy.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 50vh;
+    
+}
+
+/* section 6  */
+.black{
+    background-image: url("/img/wooden.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 120vh;
+}
+
+.sample{
+    color: wheat;
+    font-size: 20px;
+    text-align: justify;
+     border-radius: 20px;    
+  }
+  .fab{
+    color: red;
+    font-size: 20px;
+    text-align: justify;
+     font-family: sans-serif; 
+     font-style: italic; 
+     text-decoration: underline;
+      line-height: 30px;
+      cursor: pointer;
+  }
+  .fad{
+    color: red;
+    font-size: 20px;
+    text-align: justify;
+     border-radius: 20px;  
+     font-family: sans-serif; 
+     font-style: italic; 
+     text-decoration: underline;
+     line-height: 30px;
+     cursor: pointer;
+  }
+  .fac{
+    color: red;
+    font-size: 20px;
+    text-align: justify;
+     border-radius: 20px; 
+     font-family: sans-serif;
+     font-style: italic; 
+     text-decoration: underline;
+      line-height: 30px; 
+      cursor: pointer;
+  }
+
+  i{
+     color: red;
+      margin-left: 140px;
+      font-size: 70px;
+  }
+  /* section 7 */
+  .new{
+    background-image: url("/img/new\ 1.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center; 
+    height: 40vh;
+  }
+
+  /* section 8  */
+/* media quryy */
+@media (max-width: 991px) {
+    #sec1{
+        font-size: 40px;
+    }
+    #sec2{
+        font-size: 20px;
+    }
+    #sec3{
+        font-size: 15px;
+    }
+}
+@media (max-width: 991px){
+    #hed1{
+     font-size: 30px;
+    }
+}
+@media (max-width: 991px){
+    #med{
+      font-size: 20px;
+    }
+}
+@media (max-width: 991px){
+    i{
+        font-size: 30px;
+    }
+}
+@media (max-width: 991px){
+    #arry{
+        font-size: 15px;
+    }
+}
+@media (max-width: 721px){
+    #arry{
+        font-size: 10px;
+    }
+}
+@media (max-width: 721px){
+    
+    #black1{
+        font-size: 10px;
+    }
+
+    #black2{
+        font-size: 12px;
+    }
+    #black3{
+        font-size: 12px;
+    }
+    #black4{
+        font-size: 8px;
+    }
+}
+@media (max-width: 991px){
+    #last1{
+        font-size: 25px;
+    }
+    #last2{
+        font-size: 25px;
+    }
+}
+
+
+
+
